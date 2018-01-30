@@ -8,12 +8,11 @@ const ModificatorType = PropTypes.oneOf(DIMENSION_NAMES);
 const Row = styled.div`
   box-sizing: border-box;
   display: flex;
-  flex: 0 1 auto;
+  flex: 1 1 auto;
   flex-direction: row;
   flex-wrap: wrap;
   margin-right: ${p => config(p).gutterWidth / 2 * -1}rem;
   margin-left: ${p => config(p).gutterWidth / 2 * -1}rem;
-  width: 100%;
 
   ${p =>
     p.reverse &&

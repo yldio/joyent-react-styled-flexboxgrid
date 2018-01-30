@@ -2,20 +2,12 @@
   "name": "joyent-react-styled-flexboxgrid",
   "version": "2.2.0",
   "description": "Grid system based on styled-components and flexbox for React",
-  "keywords": [
-    "react",
-    "grid",
-    "flexbox",
-    "styled",
-    "styled-components"
-  ],
+  "keywords": ["react", "grid", "flexbox", "styled", "styled-components"],
   "main": "dist/react-styled-flexboxgrid.umd.js",
   "jsnext:main": "dist/react-styled-flexboxgrid.es.js",
   "module": "dist/react-styled-flexboxgrid.es.js",
   "entry": "src/index.js",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "scripts": {
     "lint": "eslint . --fix",
     "test": "NODE_ENV=test joyent-react-scripts test --env=jsdom",
