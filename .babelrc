@@ -1,9 +1,3 @@
 {
-  "presets": ["es2015", "react"],
-  "plugins": ["transform-object-rest-spread", "styled-components"],
-  "env": {
-    "development": {
-      "presets": ["react-hmre"]
-    }
-  }
+  "presets": ["joyent-portal"]
 }

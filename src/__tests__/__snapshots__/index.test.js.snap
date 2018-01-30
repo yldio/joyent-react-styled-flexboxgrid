@@ -1,0 +1,1517 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`aligns 1`] = `
+Array [
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c2 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c3 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c2 {
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    text-align: start;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c3 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    >
+        <div
+            className="c2"
+            start="xs"
+        >
+            <div
+                className="c3"
+            />
+        </div>
+    </div>
+</div>,
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c2 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c3 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c2 {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c3 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    >
+        <div
+            className="c2"
+        >
+            <div
+                className="c3"
+            />
+        </div>
+    </div>
+</div>,
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c2 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c3 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c2 {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    text-align: end;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c3 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    >
+        <div
+            className="c2"
+            end="xs"
+        >
+            <div
+                className="c3"
+            />
+        </div>
+    </div>
+</div>,
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c0 {
+    -webkit-align-items: flex-start;
+    -webkit-box-align: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+</div>,
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c0 {
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+</div>,
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c0 {
+    -webkit-align-items: flex-end;
+    -webkit-box-align: flex-end;
+    -ms-flex-align: flex-end;
+    align-items: flex-end;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+</div>,
+]
+`;
+
+exports[`auto adjusts 1`] = `
+.c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  />
+  <div
+    className="c1"
+  />
+  <div
+    className="c1"
+  />
+</div>
+`;
+
+exports[`distributes 1`] = `
+Array [
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c0 {
+    -webkit-box-pack: space-around;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: space-around;
+    justify-content: space-around;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 16.666666666666668%;
+    -ms-flex-preferred-size: 16.666666666666668%;
+    flex-basis: 16.666666666666668%;
+    max-width: 16.666666666666668%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+</div>,
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c0 {
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 16.666666666666668%;
+    -ms-flex-preferred-size: 16.666666666666668%;
+    flex-basis: 16.666666666666668%;
+    max-width: 16.666666666666668%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+</div>,
+]
+`;
+
+exports[`exports <Col /> 1`] = `
+.c0 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`exports <Grid /> 1`] = `
+.c0 {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media only screen and (min-width:48em) {
+  .c0 {
+    width: 46rem;
+  }
+}
+
+@media only screen and (min-width:64em) {
+  .c0 {
+    width: 61rem;
+  }
+}
+
+@media only screen and (min-width:75em) {
+  .c0 {
+    width: 76rem;
+  }
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`exports <Row /> 1`] = `
+.c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`exports BASE_CONF 1`] = `
+Object {
+  "breakpoints": Object {
+    "lg": 75,
+    "md": 64,
+    "sm": 48,
+    "xs": 0,
+  },
+  "container": Object {
+    "lg": 76,
+    "md": 61,
+    "sm": 46,
+  },
+  "gridSize": 12,
+  "gutterWidth": 1,
+  "mediaQuery": "only screen",
+  "outerMargin": 2,
+}
+`;
+
+exports[`hides 1`] = `
+.c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c2 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:64em) {
+  .c1 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c2 {
+    display: none;
+  }
+}
+
+@media only screen and (min-width:64em) {
+  .c2 {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  />
+  <div
+    className="c2"
+  />
+</div>
+`;
+
+exports[`is responsive 1`] = `
+Array [
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:48em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:64em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:75em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+</div>,
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:48em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:64em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:75em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+</div>,
+  .c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:48em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:64em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:75em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+<div
+    className="c0"
+>
+    <div
+        className="c1"
+    />
+    <div
+        className="c1"
+    />
+</div>,
+]
+`;
+
+exports[`offsets 1`] = `
+.c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -0.5rem;
+  margin-left: -0.5rem;
+  width: 100%;
+}
+
+.c1 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c2 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c3 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c4 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c5 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c6 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c7 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c8 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c9 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c10 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+.c11 {
+  box-sizing: border-box;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: block;
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c1 {
+    margin-left: 91.66666666666667%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c2 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c2 {
+    margin-left: 83.33333333333334%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c3 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c3 {
+    margin-left: 75%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c4 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c4 {
+    margin-left: 66.66666666666667%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c5 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c5 {
+    margin-left: 58.333333333333336%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c6 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c6 {
+    margin-left: 50%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c7 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c7 {
+    margin-left: 41.66666666666667%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c8 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c8 {
+    margin-left: 33.333333333333336%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c9 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c9 {
+    margin-left: 25%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c10 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c10 {
+    margin-left: 16.666666666666668%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c11 {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-flex-basis: 0;
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width:0em) {
+  .c11 {
+    margin-left: 8.333333333333334%;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  />
+  <div
+    className="c2"
+  />
+  <div
+    className="c3"
+  />
+  <div
+    className="c4"
+  />
+  <div
+    className="c5"
+  />
+  <div
+    className="c6"
+  />
+  <div
+    className="c7"
+  />
+  <div
+    className="c8"
+  />
+  <div
+    className="c9"
+  />
+  <div
+    className="c10"
+  />
+  <div
+    className="c11"
+  />
+</div>
+`;
