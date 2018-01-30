@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`exports BASE_CONF 1`] = `
+Object {
+  "breakpoints": Object {
+    "lg": 75,
+    "md": 64,
+    "sm": 48,
+    "xs": 0,
+  },
+  "container": Object {
+    "lg": 76,
+    "md": 61,
+    "sm": 46,
+  },
+  "gridSize": 12,
+  "gutterWidth": 1,
+  "mediaQuery": "only screen",
+  "outerMargin": 2,
+}
+`;
+
+exports[`exports DIMENSION_NAMES 1`] = `
+Array [
+  "xs",
+  "sm",
+  "md",
+  "lg",
+]
+`;
+
+exports[`exports config 1`] = `[Function]`;
