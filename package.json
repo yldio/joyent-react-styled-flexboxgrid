@@ -1,6 +1,6 @@
 {
   "name": "joyent-react-styled-flexboxgrid",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Grid system based on styled-components and flexbox for React",
   "keywords": [
     "react",
