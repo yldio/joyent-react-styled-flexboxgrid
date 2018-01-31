@@ -9,9 +9,9 @@
     "styled",
     "styled-components"
   ],
-  "main": "dist/react-styled-flexboxgrid.umd.js",
-  "jsnext:main": "dist/react-styled-flexboxgrid.es.js",
-  "module": "dist/react-styled-flexboxgrid.es.js",
+  "main": "dist/joyent-react-styled-flexboxgrid.umd.js",
+  "jsnext:main": "dist/joyent-react-styled-flexboxgrid.es.js",
+  "module": "dist/joyent-react-styled-flexboxgrid.es.js",
   "entry": "src/index.js",
   "files": [
     "dist"
