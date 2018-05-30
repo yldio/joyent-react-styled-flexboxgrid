@@ -8,9 +8,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -19,7 +19,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c2 {
@@ -28,9 +27,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -39,7 +38,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -112,9 +110,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -123,7 +121,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c2 {
@@ -132,9 +129,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -143,7 +140,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -215,9 +211,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -226,7 +222,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c2 {
@@ -235,9 +230,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -246,7 +241,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -319,9 +313,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -330,7 +324,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -377,9 +370,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -388,7 +381,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -435,9 +427,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -446,7 +438,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -497,9 +488,9 @@ exports[`auto adjusts 1`] = `
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -508,7 +499,6 @@ exports[`auto adjusts 1`] = `
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -557,9 +547,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -568,7 +558,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -618,9 +607,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -629,7 +618,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -728,9 +716,9 @@ exports[`exports <Row /> 1`] = `
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -739,7 +727,6 @@ exports[`exports <Row /> 1`] = `
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 <div
@@ -774,9 +761,9 @@ exports[`hides 1`] = `
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -785,7 +772,6 @@ exports[`hides 1`] = `
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -861,9 +847,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -872,7 +858,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -956,9 +941,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -967,7 +952,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -1048,9 +1032,9 @@ Array [
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -1059,7 +1043,6 @@ Array [
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {
@@ -1144,9 +1127,9 @@ exports[`offsets 1`] = `
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
@@ -1155,7 +1138,6 @@ exports[`offsets 1`] = `
   flex-wrap: wrap;
   margin-right: -0.5rem;
   margin-left: -0.5rem;
-  width: 100%;
 }
 
 .c1 {

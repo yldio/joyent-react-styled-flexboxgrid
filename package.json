@@ -2,22 +2,15 @@
   "name": "joyent-react-styled-flexboxgrid",
   "version": "2.2.3",
   "description": "Grid system based on styled-components and flexbox for React",
-  "keywords": [
-    "react",
-    "grid",
-    "flexbox",
-    "styled",
-    "styled-components"
-  ],
+  "keywords": ["react", "grid", "flexbox", "styled", "styled-components"],
   "main": "dist/joyent-react-styled-flexboxgrid.umd.js",
   "jsnext:main": "dist/joyent-react-styled-flexboxgrid.es.js",
   "module": "dist/joyent-react-styled-flexboxgrid.es.js",
   "entry": "src/index.js",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "scripts": {
     "lint": "eslint . --fix",
+    "fmt": "prettier --config .prettierrc --write '**/*'",
     "test": "NODE_ENV=test joyent-react-scripts test --env=jsdom",
     "prepublish": "NODE_ENV=production bup"
   },
@@ -33,28 +26,28 @@
   "homepage": "https://github.com/yldio/react-styled-flexboxgrid",
   "dependencies": {
     "lodash.isinteger": "^4.0.4",
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.1"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
-    "babel-preset-joyent-portal": "^6.0.3",
+    "babel-eslint": "^8.2.3",
+    "babel-preset-joyent-portal": "^7.0.1",
     "bup": "^4.1.6",
-    "eslint": "^4.16.0",
+    "eslint": "^4.19.1",
     "eslint-config-joyent-portal": "^3.3.1",
     "eslint-config-prettier": "^2.9.0",
     "eslint-config-react-app": "^2.1.0",
-    "eslint-config-xo-space": "^0.17.0",
-    "eslint-plugin-flowtype": "^2.42.0",
-    "eslint-plugin-import": "^2.8.0",
+    "eslint-config-xo-space": "^0.18.0",
+    "eslint-plugin-flowtype": "^2.48.0",
+    "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-markdown": "^1.0.0-beta.6",
-    "eslint-plugin-prettier": "^2.5.0",
-    "eslint-plugin-react": "^7.6.1",
-    "jest-styled-components": "^4.11.0-0",
-    "joyent-react-scripts": "^7.2.2",
-    "react": "^16.2.0",
-    "react-test-renderer": "^16.2.0",
-    "styled-components": "^3.1.4"
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.8.2",
+    "jest-styled-components": "^5.0.1",
+    "joyent-react-scripts": "^8.2.1",
+    "react": "^16.4.0",
+    "react-test-renderer": "^16.4.0",
+    "styled-components": "^3.3.0"
   },
   "peerDependencies": {
     "react": "*",
