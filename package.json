@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/yldio/react-styled-flexboxgrid",
   "dependencies": {
+    "is-number": "^6.0.0",
     "lodash.isinteger": "^4.0.4",
     "prop-types": "^15.6.1"
   },
